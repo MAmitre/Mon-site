@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+         <meta charset="utf-8">
+         <link rel="stylesheet" type="text/css" href="test.css"/>
+         <title>5.fcfa l'unité</title>
+    </head>
+   <body>
+       <p>
+          <h1 id="page de bienvenue">Salut et
+           <span class="salutation">bienvenue</span>  dans 5fcfa L'UNITE!</h1> 
+          <br/> 
+           vous pouvez directement nous contacter par les numeros suivants:
+           <h3>+(237) 654132378/658208168</h3>
+           <br>
+           Ou encore, vous pouvez nous suivre par le lien Whatsapp suivant:<a href="https://chat.whatsapp.com/CXVxpACFLzk5SLg4IQNHmK">WHATSAPP</a>
+           <br>
+           <strong>Nous vous offrons une platforme de tous les doccuments en PDF de la maternelle au master</strong>.
+           <br/>
+           pour tous les programmes de l'enseignement et epreuves de concours au cameroun, de l'Afrique centrale et meme à l'etranger.<br>
+           Attention, une minute de silence! <br>
+            Ici le <strong> PDF</strong> c'est <strong>5 fcfa</strong> <strong> et le mode de paiement MOMO et OM</strong> . Alors augmentez vos capacités de réussite 
+             <a href="5fcfa2.html">cliquez ici pour la page d'acceuil</a>
+             <a href="#page de bienvenue">haut de page</a>
+             <a href="mailto:smeye6930@gmail.com">Envoyez nous un message!</a>
+
+       </p>
+       <p>
+           <br>
+           <img src="image/image.png"
+           alt="acceuil">
+       </p>
+          
+   </body>
+</html> 
